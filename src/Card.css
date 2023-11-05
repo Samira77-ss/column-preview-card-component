@@ -58,7 +58,7 @@ footer {
   background-color: var(--fourthColor);
   border: 2px solid var(--fourthColor);
   margin-bottom: 10px;
-  padding: 8px 22px;
+  padding: 8px 18px;
   border-radius: 30px;
   font-size: 13px;
   cursor: pointer;
@@ -97,14 +97,12 @@ button:hover {
 }
 .sedans {
   background-color: var(--firstColor);
-  border-radius: 5px 0 0 5px;
 }
 .suvs {
   background-color: var(--secondColor);
 }
 .luxury {
   background-color: var(--thirdColor);
-  border-radius: 0 5px 5px 0;
 }
 
 @media screen and (min-width: 650px) {
